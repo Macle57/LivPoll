@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "972140073745",
+    "firebase_url": "https://livpol-bc457-default-rtdb.firebaseio.com",
+    "project_id": "livpol-bc457",
+    "storage_bucket": "livpol-bc457.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972140073745:android:125da28141f3945ea832b0",
+        "android_client_info": {
+          "package_name": "com.example.livpol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972140073745-1urmbudq4jegev4679muoqnh9ued7s3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCbw5_0jl2TnXdhcdYMd0ZY-Bg1hbUSHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972140073745-1urmbudq4jegev4679muoqnh9ued7s3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972140073745:android:4f823480d4af6d0ea832b0",
+        "android_client_info": {
+          "package_name": "io.github.ashishthehulk.livpol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972140073745-1urmbudq4jegev4679muoqnh9ued7s3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCbw5_0jl2TnXdhcdYMd0ZY-Bg1hbUSHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972140073745-1urmbudq4jegev4679muoqnh9ued7s3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

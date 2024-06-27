@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="EpicNumberDataStyle">
+        <item name="android:padding">6dp</item>
+        <item name="background">@drawable/round_layout_corners</item>
+        <item name="android:background">@drawable/round_layout_corners</item>
+
+    </style>
+</resources>
